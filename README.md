@@ -21,9 +21,9 @@ Welcome to my project portfolio! This repository showcases a range of projects I
 ---
 
 ## Tools and Technologies
-- **Data Visualization**: Tableau, Power BI
-- **Programming**: Python (Pandas, Scikit-learn, Matplotlib, SHAP)
-- **Data Storage**: CSV, SQL
+- **Data Visualization**: Tableau, Power BI, Python
+- **Programming**: Python (Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn)
+- **Data Storage**: CSV, Excel
 - **Version Control**: Git, GitHub
 
 ---
