@@ -36,7 +36,7 @@ Welcome to my project portfolio! This repository showcases a range of projects I
 ---
 
 ## About Me
-I am a Data Analyst skilled in translating complex data into actionable insights through visualization and predictive modeling. This portfolio reflects my work across domains such as retail, telecom, and environmental analytics.
+I am a Data Analyst skilled in translating complex data into actionable insights through visualization and predictive modeling. This portfolio reflects my work across domains such as finance, retail, and telecom.
 
 For inquiries, contact me at **[huogang.ca@gmail.com](mailto:huogang.ca@gmail.com)**.
 
