@@ -8,7 +8,7 @@ Welcome to my project portfolio! This repository showcases a range of projects I
 
 ### 1. Tableau Dashboards
 - [Call Centre Performance Dashboard](https://public.tableau.com/views/20241119_Call_Centre_PerformanceDashboard/D7ExecutiveDashboardwithMultiCustomDateRangeMeasures?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link): Analyzes the call centre performance of a telecom company.
-- [Loan Analysis Dashboard](Tableau/Loan_Prediction/README.md): Visualizes loan borrowers by geography.
+- [Loan Analysis Dashboard](https://public.tableau.com/views/2024_Loan_Credit_Risk_Analysis/NewLoanPredictionAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link): Visualizes loan credit risk.
 
 ### 2. Power BI Dashboards
 - [Online Sales Analysis Dashboard](PowerBI/Sales_Analysis/README.md): Analyze the online sales performance of a retailer.
